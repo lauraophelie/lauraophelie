@@ -2,7 +2,7 @@
 
 My name is [Laura Ophélie](https://laura-s-portfolio-nine.vercel.app/), and I'm a Fullstack Developer and MSc student in Computer Science based in Madagascar.
 
-I enjoy combining my skills in frontend, backend development, and database management to build apps with useful, cool features and clean, user-friendly UIs. I'm also passionate about other areas in tech, including Machine Learning, Graphic Design, Networks and Databases, and Game Development. I'm always working to expand my knowledge and stay curious about the evolving tech world.
+I enjoy combining my skills in frontend, backend development, and database management to build apps with useful, cool features and clean, user-friendly UIs. I'm also passionate about other areas in tech, including Machine Learning, Graphic Design, UI/UX Design, Networks and Databases, and Game Development. I'm always working to expand my knowledge and stay curious about the evolving tech world.
 
 When I'm not coding, you'll probably find me sketching, crocheting cute things, watching anime or dramas, catching up on sleep, or gaming. I also tinker with side projects — I love bringing random tech ideas to life just for fun.
 
