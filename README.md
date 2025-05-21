@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Laura Ophélie, and I'm a Fullstack Developper and a MSc Student in Computer Science base in Madagascar.
+
 <!--
 **lauraophelie/lauraophelie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
