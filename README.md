@@ -9,7 +9,7 @@ When I'm not coding, you'll probably find me sketching, crocheting cute things, 
 🌱 I’m currently learning : Android Studio, Adobe Illustrator, C# & NestJS
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/laura-oph%C3%A9lie-rasolonandrasana-28236a314)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-oph%C3%A9lie-rasolonandrasana-28236a314)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lauraophelie1@gmail.com) 
 
 ### 💻 Tech Stack & Tools :
