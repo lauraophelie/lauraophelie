@@ -1,3 +1,4 @@
+![banner](./banner.gif)
 ## Hi there 👋
 
 - My name is Laura Ophélie, Fullstack Developer and MSc student in Computer Science (Big Data & IA)
