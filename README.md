@@ -1,7 +1,7 @@
 ![banner](./banner.gif)
 ## Hi there 👋
 
-- My name is Laura Ophélie, Fullstack Developer and MSc student in Computer Science (Big Data & IA)
+- My name is Laura Ophélie, Fullstack Developer and MSc student in Computer Science (Big Data & AI)
 - Based in Antananarivo, Madagascar.
 - I enjoy combining different skills in my personal projects such as front end, backend, database, drawing to create cool stuff
 - I love bringing random tech ideas to life just for fun and it is also a way for me to apply what I learn in class
